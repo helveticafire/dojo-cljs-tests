@@ -6,3 +6,5 @@
                  [jeluard/boot-notify "0.2.0" :scope "test"]
                  [org.clojure/clojure "1.7.0"]
                  [org.clojure/clojurescript "0.0-3208"]])
+
+(require '[adzerk.boot-cljs :refer :all])
